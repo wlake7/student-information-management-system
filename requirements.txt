@@ -1,0 +1,6 @@
+numpy
+Pillow
+bcrypt
+PyQt5
+pypinyin
+openpyxl
